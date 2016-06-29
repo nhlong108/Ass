@@ -1,0 +1,21 @@
+Build tool: Maven
+- dependency
+- package to jar, sar
+Hibernate
+- ORM
+Spring
+- DI
+- IoC
+- AOP
+JMX
+- epose mbean, mbean exporter
+Jboss Wildfly
+- config the datasource, module.
+- deploy the .sar to server
+JMS
+- jms pub-sub
+- durable consumable
+GUI - eclipse rcp
+- create view, table view
+- create command.
+- create dialog
